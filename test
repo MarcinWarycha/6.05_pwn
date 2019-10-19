@@ -6,7 +6,7 @@ b.	git copy <url>
 c.	git checkout <url>
 d.	git init <url>
 
-answer: []
+answer: [a]
 
 02. 	Which of the following is not the correct state in file status lifecycle?
 
@@ -16,7 +16,7 @@ c.	modified
 d.	staged
 e.	followed
 
-answer: []
+answer: [e]
 
 03. 	Which of the following commands will remove <file> from staging area?
 
@@ -25,7 +25,7 @@ b.	git reset HEAD <file>
 c.	git checkout -- <file>
 d.	git delete <file>
 
-answer: []
+answer: [b]
 
 04. 	Which files will be commited using the command [git commit –m ‘initial commit’]?
 
@@ -33,7 +33,7 @@ a.	All modified files in the working directory
 b.	Only files from staging area
 c.	None, there is an error in the command: no files specified
 
-answer: []
+answer: [b]
 
 05. 	Which of the following commands will display the difference between working area and staging area?
 
@@ -42,7 +42,7 @@ b.	git diff --working_area
 c.	git diff --staging_area
 d.	git diff –staged
 
-answer: []
+answer: [a]
 
 06. 	What does the [git checkout -- <file>] command do?
 
@@ -51,7 +51,7 @@ b.	Removes all changes from <file> in working directory to the state from reposi
 c.	Copies <file> from master branch to the current branch (overwriting the current branch version)
 d.	None of the above
 
-answer: []
+answer: [b]
 
 07. 	Which of the following commands will create and at the same time will switch  the current branch to <new_branch>?
 
@@ -59,7 +59,7 @@ a.	git branch --switch <new_branch>
 b.	git checkout -b <new_branch>
 c.	git branch <new_branch>
 
-answer: []
+answer: [b]
 
 08. 	Where (by default) HEAD pointer points?
 
@@ -67,7 +67,7 @@ a.	The most actual commit at the master branch
 b.	The most actual commit at the current branch
 c.	The snapshot on the remote repository you have cloned during local repository creation
 
-answer: []
+answer: [b]
 
 
 	
