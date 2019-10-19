@@ -34,5 +34,6 @@ DELIMITER ;
 
 #[to do solve compile error]
 SELECT reprezentacja("POL"); 
+SELECT reprezentacja("POL"); 
 
-#Mateusz
+Jakub
