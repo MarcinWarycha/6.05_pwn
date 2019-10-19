@@ -1,13 +1,11 @@
 1. commit -a
 
 2. add
-2. add
 
 3. commit 
 
 4. push
 
-5. fetch
 5. fetch
 
 6. pull/rebase
