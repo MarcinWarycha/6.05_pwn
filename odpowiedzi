@@ -1,19 +1,19 @@
-1.
+1. commit -a
 
-2.
+2. add
 
-3.
+3. commit
 
-4.
+4. push
 
-5.
+5. fetch
 
-6.
+6. pull / rebase
 
-7.
+7. reset HEAD
 
-8.
+8. checkout
 
-9.
+9. diff HEAD
 
-10.
+10. diff
