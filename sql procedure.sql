@@ -13,12 +13,12 @@ BEGIN
   
   #[to do solve compile error]
   BEGIN
-	SELECT imie zawodnicy WHERE kraj = nazwa; 
+	SELECT imie FROM zawodnicy WHERE kraj = nazwa; 
   END;
   
    #[to do solve compile error]
   BEGIN
-	SELECT id_skoczka FROM zawodnicy kraj = nazwa;
+	SELECT id_skoczka FROM zawodnicy WHERE kraj = nazwa;
   END;
   
   BEGIN
