@@ -11,12 +11,12 @@ BEGIN
   SET @liczba        = (SELECT count(*) AS liczba FROM zawodnicy group by nazwa);
   SET @sredni_wzrost = (SELECT avg(wzrost) FROM zawodnicy WHERE kraj = nazwa);
   
-  #[to do solve compile error]
+
   BEGIN
 	SELECT imie FROM zawodnicy WHERE kraj = nazwa; 
   END;
   
-   #[to do solve compile error]
+
   BEGIN
 	SELECT id_skoczka FROM zawodnicy WHERE kraj = nazwa;
   END;
@@ -32,7 +32,7 @@ BEGIN
 END //
 DELIMITER ;
 
-#[to do solve compile error]
-CALL reprezentacja("POL");  
+CALL reprezentacja("POL"); 
 
-#[Monika]
+
+ANIA
