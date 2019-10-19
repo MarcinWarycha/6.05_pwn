@@ -1,19 +1,21 @@
 1. commit -a
 
 2. add
+2. add
 
 3. commit 
 
-4. diff HEAD
+4. push
 
+5. fetch
 5. fetch
 
 6. pull/rebase
 
-7. push
+7. restet HEAD
 
-8. diff
+8. checkout
 
-9. checkout
+9. diff HEAD
 
-10. push
+10. diff
