@@ -33,6 +33,6 @@ END //
 DELIMITER ;
 
 #[to do solve compile error]
-reprezentacja("POL"); 
+SELECT reprezentacja("POL"); 
 
-#[to do remove this line and insert your name]
+#Mateusz
