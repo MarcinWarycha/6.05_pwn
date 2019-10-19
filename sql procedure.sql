@@ -33,7 +33,6 @@ END //
 DELIMITER ;
 
 #[to do solve compile error]
-CALL reprezentacja("POL"); 
-SELECT reprezentacja("POL"); 
+CALL reprezentacja("POL");  
 
 #[Monika]
