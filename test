@@ -16,7 +16,7 @@ c.	modified
 d.	staged
 e.	followed
 
-answer: [d]
+answer: [e]
 
 03. 	Which of the following commands will remove <file> from staging area?
 
@@ -25,7 +25,7 @@ b.	git reset HEAD <file>
 c.	git checkout -- <file>
 d.	git delete <file>
 
-answer: [a]
+answer: [b]
 
 04. 	Which files will be commited using the command [git commit –m ‘initial commit’]?
 
@@ -42,7 +42,7 @@ b.	git diff --working_area
 c.	git diff --staging_area
 d.	git diff –staged
 
-answer: [d]
+answer: [a]
 
 06. 	What does the [git checkout -- <file>] command do?
 
@@ -67,7 +67,7 @@ a.	The most actual commit at the master branch
 b.	The most actual commit at the current branch
 c.	The snapshot on the remote repository you have cloned during local repository creation
 
-answer: [b]
+answer: [a]
 
 
 	
