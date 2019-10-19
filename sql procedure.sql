@@ -35,4 +35,4 @@ DELIMITER ;
 #[to do solve compile error]
 CALL reprezentacja("POL");  
 
-Jakub
+#[Monika]
