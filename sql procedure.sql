@@ -40,3 +40,5 @@ PATRYCJA
 
 
 Monika
+
+Jakub
