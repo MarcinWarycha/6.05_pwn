@@ -36,6 +36,7 @@ CALL reprezentacja("POL");
 
 
 ANIA
+PATRYCJA
 
 
 Monika
