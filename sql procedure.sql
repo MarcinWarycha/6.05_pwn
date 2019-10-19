@@ -36,7 +36,7 @@ CALL reprezentacja("POL");
 
 
 ANIA
-
+PATRYCJA
 
 
 Mateusz
