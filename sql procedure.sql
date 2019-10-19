@@ -13,12 +13,12 @@ BEGIN
   
   #[to do solve compile error]
   BEGIN
-	SELECT imie zawodnicy WHERE kraj = nazwa; 
+	SELECT imie FROM zawodnicy WHERE kraj = nazwa; 
   END;
   
    #[to do solve compile error]
   BEGIN
-	SELECT id_skoczka FROM zawodnicy kraj = nazwa;
+	SELECT id_skoczka FROM zawodnicy WHERE kraj = nazwa;
   END;
   
   BEGIN
@@ -33,6 +33,6 @@ END //
 DELIMITER ;
 
 #[to do solve compile error]
-reprezentacja("POL"); 
+SELECT reprezentacja("POL"); 
 
-#[to do remove this line and insert your name]
+Jakub
